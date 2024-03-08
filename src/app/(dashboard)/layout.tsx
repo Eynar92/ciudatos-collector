@@ -6,9 +6,7 @@ export default function DashboardLayout({ children }: {
     return (
         <>
             <Navbar />
-            <main className="container py-4">
-                {children}
-            </main>
+            {children}
         </>
     );
 }
