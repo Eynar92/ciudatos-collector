@@ -23,7 +23,7 @@ export const PreviewDialogBtn = () => {
                 </div>
                 <div className="flex flex-col bg-accent flex-grow items-center justify-center p-4 bg-[url(/assets/img/paper.svg)] dark:bg-[url(/assets/img/paper-dark.svg)]">
                     <div className="flex flex-col flex-grow gap-4 max-w-[620px] bg-background h-full w-full rounded-2xl p-8 overflow-y-auto">
-                        // TODO We need to show the form elements, we don't have it
+                        {/*//TODO We need to show the form elements, we dont have it*/}
                     </div>
                 </div>
 
